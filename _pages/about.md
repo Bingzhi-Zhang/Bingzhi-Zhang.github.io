@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bingzhi Zhang | Home"
+title: "Bingzhi Zhang"
 author_profile: true
 redirect_from: 
   - /about/
