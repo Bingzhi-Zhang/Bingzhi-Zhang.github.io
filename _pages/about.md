@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-
-
+ 
+ 
 I am a PhD Candidate in Finance at Durham University, UK.
 
 My research interests include corporate finance, financial intermediation, financial markets, and applied empirical finance. 
