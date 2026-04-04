@@ -41,7 +41,10 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-.page__inner-wrap {
-  margin-top: 50px;
-  margin-left: 40px;
+.page {
+  padding-top: 40px;
+}
+
+.page__content p {
+  padding-left: 40px;
 }
