@@ -48,6 +48,17 @@
 .page__content p {
   padding-left: 50px;
 }
+
 .author__avatar img {
   border-radius: 6% !important;
 }
+
+.sidebar .author__content h3,
+.sidebar .author__content h3 a,
+.author__content h3,
+.author__content h3 a {
+  font-size: 28px !important;
+  font-weight: 700 !important;
+  line-height: 1.2 !important;
+}
+
