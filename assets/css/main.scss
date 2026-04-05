@@ -69,7 +69,14 @@
 
 .author__location {
   font-size: 16px !important;
-  line-height: 1.6 !important;
+}
+
+.author__location i {
+  font-size: 16px !important;
+}
+
+.author__employer {
+  font-size: 16px !important;
 }
 
 .author__urls {
