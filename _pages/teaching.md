@@ -6,7 +6,7 @@ author_profile: true
 
 ## Durham University Business School
 
-## ECON42115 Financial Modelling and Business Forecasting (Postgraduate)
+### ECON42115 Financial Modelling and Business Forecasting (Postgraduate)
 Practical classes  
 Teaching Assistant  
 *Teaching evaluation: 5/5*
