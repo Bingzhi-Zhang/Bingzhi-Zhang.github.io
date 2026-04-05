@@ -46,6 +46,7 @@ with Xian Gu
 ## Conferences
 
 **Presentations**
+
 2025
 DUBS Department of Finance Internal Seminar, ICMAIF 2025, and FMA European
 
@@ -53,6 +54,7 @@ DUBS Department of Finance Internal Seminar, ICMAIF 2025, and FMA European
 The 2nd Finance and Business Analytics Conference, the 26th INFER Annual Conference, the 17th International Risk Management Conference, the 17th NARTI Annual Conference, the 8th Essex Finance Centre (EFiC) Conference in Banking and Corporate Finance, and DUBS Department of Finance Internal Seminar
 
 **Discussions**
+
 2025
 ICMAIF 2025 and FMA European
 
