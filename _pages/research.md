@@ -48,7 +48,6 @@ with Xian Gu
 **Presentations**
 
 2025
-
 DUBS Department of Finance Internal Seminar, ICMAIF 2025, and FMA European
 
 2024
