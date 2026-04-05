@@ -4,18 +4,18 @@ title: "Teaching Experience"
 author_profile: true
 ---
 
-## 2022/23
+## Durham University Business School
 
-**ECON42115 Financial Modelling and Business Forecasting (Postgraduate)**  
-Durham University Business School  
-Practical classes and seminar classes
+### ECON42115 Financial Modelling and Business Forecasting (Postgraduate)
+Practical classes  
+Teaching Assistant  
 *Teaching evaluation: 5/5*
 
-**ECON42115 Financial Modelling and Business Forecasting (Postgraduate)**  
-Durham University Business School  
-Seminar classes
+### ECON42115 Financial Modelling and Business Forecasting (Postgraduate)
+Seminar classes  
+Teaching Assistant  
 *Teaching evaluation: 5/5*
 
-**ECON47815 Econometric Methods (Postgraduate)**  
-Durham University Business School  
-Practical classes
+### ECON47815 Econometric Methods (Postgraduate)
+Practical classes  
+Teaching Assistant  
