@@ -6,7 +6,7 @@ author_profile: true
 
 ## Research Interests
 **Corporate Finance**  
-**Financial Intermediation** 
+**Financial Intermediation**   
 **Financial Markets**  
 **Applied Empirical Finance**
 
