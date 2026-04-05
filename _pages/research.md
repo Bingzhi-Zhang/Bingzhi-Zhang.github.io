@@ -14,7 +14,7 @@ with Xian Gu, Iftekhar Hasan, Linda Zhao, and Yun Zhu
 
 ## Working Papers
 
-**Geopolitical Risk and Bank Lending**(Job Market Paper)  
+**Geopolitical Risk and Bank Lending** (Job Market Paper)  
 with Nikos Paltalidis  
 
 
