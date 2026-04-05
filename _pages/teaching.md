@@ -1,16 +1,21 @@
 ---
 permalink: /teaching/
-title: "Teaching"
+title: "Teaching Experience"
 author_profile: true
 ---
 
-## Teaching Experience
+# 2022/23
 
-**Econometric Methods (Postgraduate)**  
+**ECON42115 Financial Modelling and Business Forecasting (Postgraduate)**  
 Durham University Business School  
-Practical classes, 2022–2023
+Practical classes and seminar classes
+*Teaching evaluation: 5/5*
 
-**Financial Modelling and Business Forecasting (Postgraduate)**  
+**ECON42115 Financial Modelling and Business Forecasting (Postgraduate)**  
 Durham University Business School  
-Practical classes and seminar classes, 2022–2023  
-Teaching evaluation: 5/5
+Seminar classes
+*Teaching evaluation: 5/5*
+
+**ECON47815 Econometric Methods (Postgraduate)**  
+Durham University Business School  
+Practical classes
