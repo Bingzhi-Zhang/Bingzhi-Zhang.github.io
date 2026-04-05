@@ -67,24 +67,22 @@
   line-height: 1.6 !important;
 }
 
-.author__content p {
-  font-size: 16px !important;
-  line-height: 1.6 !important;
-}
-
-.author__content i {
-  font-size: 16px !important;
-}
-
-.author__urls {
-  font-size: 16px !important;
-  line-height: 1.6 !important;
-}
-
 .author__urls li {
+  font-size: 16px !important;
+  line-height: 1.6 !important;
   margin-bottom: 6px;
 }
 
-.author__urls a {
+/* Links (Email, SSRN, LinkedIn etc.) */
+.author__urls li a {
   font-size: 16px !important;
+}
+
+/* Icons */
+.author__urls li i,
+.author__urls li svg {
+  font-size: 16px !important;
+  width: 16px !important;
+  height: 16px !important;
+  vertical-align: middle !important;
 }
