@@ -17,6 +17,6 @@ I hold two master's degrees from the University of St Andrews (MSc in Money, Ban
 
 ---
 
-**Contact**
+**Contact**  
 Email: bingzhi.zhang@durham.ac.uk  
 Address: Durham University Business School, Mill Hill Lane, Durham DH1 3LB
