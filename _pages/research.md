@@ -4,6 +4,11 @@ title: "Research"
 author_profile: true
 ---
 
+## Research Interests
+### Corporate Finance, Financial Intermediation, Financial Markets, Applied Empirical Finance
+
+---
+
 ## Publications
 
 **Up the Political Ladder: The Role of Political Networks**  
