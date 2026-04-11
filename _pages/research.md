@@ -14,7 +14,7 @@ author_profile: true
 
 ## Publications
 
-**Up the Political Ladder: The Role of Political Networks**(https://doi.org/10.1016/j.jfs.2026.101534)  
+[**Up the Political Ladder: The Role of Political Networks**](https://doi.org/10.1016/j.jfs.2026.101534)  
 with Xian Gu, Iftekhar Hasan, Linda Zhao, and Yun Zhu  
 *Journal of Financial Stability*, 2026.
 
