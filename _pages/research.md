@@ -44,6 +44,7 @@ This paper investigates the impact of geopolitical risk (GPR) on U.S. corporate 
 with Xian Gu  
 
 This study develops new measures of corporate political position-taking by applying Natural Language Inference (NLI) models and large language models (LLMs) to U.S. firms’ earnings call transcripts. We construct direction- and intensity-based stance scores across nine salient sociopolitical issues, combining logical entailment with generative AI assessments of commitment strength. Using these measures, we show that stronger corporate position-taking is associated with higher subsequent sales growth, indicating that publicly expressed sociopolitical stances can generate tangible commercial benefits. We further examine cases of “inconsistency”, where firms take strong public positions but simultaneously donate to Republican candidates. Such misalignment does not attenuate the positive relation between stance-taking and sales growth. Overall, the paper provides a scalable framework for measuring corporate political expression and offers new evidence on how sociopolitical engagement affects firm performance.  
+<br>
 
 **Geopolitical Risk and Knowledge-Network Spillovers**  
 with Xian Gu  
