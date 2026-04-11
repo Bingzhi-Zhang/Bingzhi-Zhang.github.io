@@ -7,19 +7,18 @@ author_profile: true
 ## Research Interests
 **Corporate Finance**  
 **Financial Intermediation**   
-**Financial Markets**  
-**Applied Empirical Finance**
+**Politics and Finance**  
+**Financial Technology**
 
 ---
 
 ## Publications
 
-**Up the Political Ladder: The Role of Political Networks**  
+**Up the Political Ladder: The Role of Political Networks**(https://doi.org/10.1016/j.jfs.2026.101534)  
 with Xian Gu, Iftekhar Hasan, Linda Zhao, and Yun Zhu  
 *Journal of Financial Stability*, 2026.
 
 Drawing on detailed career and biographical data of Chinese politicians, this study builds a dynamic social network for all political elites in China and examines the selection process of provincial-level politicians. Using regression and tree-based machine learning techniques and leveraging individuals’ global centrality within political networks, we unveil the relative importance of economic performance, political networks, and career trajectory in determining the selection of provincial leaders. Our findings highlight the critical role of network embeddedness.  
-[Paper](https://doi.org/10.1016/j.jfs.2026.101534)
 
 ---
 
